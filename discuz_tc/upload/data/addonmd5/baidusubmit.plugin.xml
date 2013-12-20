@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[baidusubmit.plugin]]></item>
+	<item id="RevisionID"><![CDATA[25533]]></item>
+	<item id="SN"><![CDATA[2013121913HrrnxRE1n9]]></item>
+	<item id="RevisionDateline"><![CDATA[1383292801]]></item>
+	<item id="Data">
+		<item id="/uninstall.php"><![CDATA[1ee3cf284c9d72440ce435b03c937cee]]></item>
+		<item id="/discuz_plugin_baidusubmit_SC_UTF8.xml"><![CDATA[d456e546d47dc8ec1c4b871c15e47339]]></item>
+		<item id="/indexinc.inc.php"><![CDATA[111a55be06e66853130612fbd26a2dbb]]></item>
+		<item id="/install.php"><![CDATA[d98cf64bcb14f0decf7e406a7a1ab4ad]]></item>
+		<item id="/sitemapinc.inc.php"><![CDATA[dab84e7c8ba71c06742a2f9ac0262113]]></item>
+		<item id="/sitemapall.inc.php"><![CDATA[c2be4805125ff2a193966f1c15068797]]></item>
+		<item id="/config.php"><![CDATA[a5028ff06ca9528a0bff4b3edc22b855]]></item>
+		<item id="/indexall.inc.php"><![CDATA[52b9019b57fbb585030f782e5cf2f31f]]></item>
+		<item id="/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/discuz_plugin_baidusubmit_SC_GBK.xml"><![CDATA[822c50a7f0983a5857f5ac14c9c71d87]]></item>
+		<item id="/submitlog.inc.php"><![CDATA[cc36af80d3bdeb132ec444a369c0f980]]></item>
+		<item id="/auth.inc.php"><![CDATA[3f6ea9d4435050b69e2e83ffadb13763]]></item>
+		<item id="/class_schema.php"><![CDATA[b62c9c5c72729ab96fbf02de033f6eea]]></item>
+		<item id="/admin.inc.php"><![CDATA[9e0cc9a76b342013e03542ab863ecdae]]></item>
+		<item id="/baidusubmit.class.php"><![CDATA[1492e46fe9814158df391e7b588351c2]]></item>
+		<item id="/table/table_baidusubmit_setting.php"><![CDATA[8f8e2201d48c687006d9dcdea685a584]]></item>
+		<item id="/table/table_baidusubmit_sitemap.php"><![CDATA[a3b8ff2e3213af38784bdfaab6b61e22]]></item>
+		<item id="/table/table_baidusubmit_urlstat.php"><![CDATA[1a628d7772d453ef22e5265a8171a3b5]]></item>
+		<item id="/table/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/table/table_forum_thread_baidu.php"><![CDATA[237a04e1a64b73dd80503f1bb9a1a728]]></item>
+		<item id="/function/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/function/function_baidu.php"><![CDATA[366af82bd90a0502cd3f23a883352ab6]]></item>
+		<item id="/checksign.inc.php"><![CDATA[fc50ce3aa79a926952b1f390859c0272]]></item>
+		<item id="/template/index.htm"><![CDATA[d41d8cd98f00b204e9800998ecf8427e]]></item>
+		<item id="/template/submitlog.htm"><![CDATA[4274916548a45ca0f738dfe30099181a]]></item>
+		<item id="/template/admin.htm"><![CDATA[8d6af3189389ad80e06d184778c13aeb]]></item>
+		<item id="/downlog.inc.php"><![CDATA[118374bec1c943836772e7bf76d9eb4d]]></item>
+	</item>
+</root>
